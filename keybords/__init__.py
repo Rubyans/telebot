@@ -1,0 +1,2 @@
+from keybords.clientbutton import kbautho,kbdriver,kblogist,kbwarehouse,kblogist1,kblogist3,kblogist2,kbdrive1,kbadmin,kbmenustart,kbdriwe,kbwareh,kbadmin1,kbadminreg,kbadminbd1,kbdemonstjob,kbcomp,kbwareadmin,kbmethodsave,kbtypecargo,kbqrcode,kblogist5,kbtypecar
+from keybords.adminbutton import buttonadmin
